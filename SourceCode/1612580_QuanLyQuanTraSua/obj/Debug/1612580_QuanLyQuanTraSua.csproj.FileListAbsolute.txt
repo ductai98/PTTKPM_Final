@@ -1,0 +1,10 @@
+C:\Users\ronin\source\repos\1612580_QuanLyQuanTraSua\1612580_QuanLyQuanTraSua\bin\Debug\1612580_QuanLyQuanTraSua.exe.config
+C:\Users\ronin\source\repos\1612580_QuanLyQuanTraSua\1612580_QuanLyQuanTraSua\bin\Debug\1612580_QuanLyQuanTraSua.exe
+C:\Users\ronin\source\repos\1612580_QuanLyQuanTraSua\1612580_QuanLyQuanTraSua\bin\Debug\1612580_QuanLyQuanTraSua.pdb
+C:\Users\ronin\source\repos\1612580_QuanLyQuanTraSua\1612580_QuanLyQuanTraSua\obj\Debug\1612580_QuanLyQuanTraSua.csprojAssemblyReference.cache
+C:\Users\ronin\source\repos\1612580_QuanLyQuanTraSua\1612580_QuanLyQuanTraSua\obj\Debug\_1612580_QuanLyQuanTraSua.LoginForm.resources
+C:\Users\ronin\source\repos\1612580_QuanLyQuanTraSua\1612580_QuanLyQuanTraSua\obj\Debug\_1612580_QuanLyQuanTraSua.Properties.Resources.resources
+C:\Users\ronin\source\repos\1612580_QuanLyQuanTraSua\1612580_QuanLyQuanTraSua\obj\Debug\1612580_QuanLyQuanTraSua.csproj.GenerateResource.cache
+C:\Users\ronin\source\repos\1612580_QuanLyQuanTraSua\1612580_QuanLyQuanTraSua\obj\Debug\1612580_QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+C:\Users\ronin\source\repos\1612580_QuanLyQuanTraSua\1612580_QuanLyQuanTraSua\obj\Debug\1612580_QuanLyQuanTraSua.exe
+C:\Users\ronin\source\repos\1612580_QuanLyQuanTraSua\1612580_QuanLyQuanTraSua\obj\Debug\1612580_QuanLyQuanTraSua.pdb
